@@ -1,8 +1,8 @@
-- Github https://github.com/caglartoklu/
-- LinkedIn https://www.linkedin.com/in/caglartoklu/
-- Medium https://caglartoklu.medium.com/
-- Twitter https://twitter.com/caglartoklu
-- Vim https://www.vim.org/account/profile.php?user_id=17322
+[Github](https://github.com/caglartoklu/) |
+[LinkedIn](https://www.linkedin.com/in/caglartoklu/) |
+[Medium](https://caglartoklu.medium.com/) |
+[Twitter](https://twitter.com/caglartoklu) |
+[Vim](https://www.vim.org/account/profile.php?user_id=17322) |
 
 
 <!--
